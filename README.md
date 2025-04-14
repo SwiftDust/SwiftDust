@@ -3,7 +3,7 @@
   <a href="#">Website (coming soon!)</a> •
   <a href="mailto:martzielman10@gmail.com">E-mail</a> •
   <a href="https://hackclub.com/slack">Hack Club: @mart (need to be <18 to join)</a> •
-  <a href="https://github.com/SwiftDust/repositories">See some of my projects</a>
+  <a href="https://github.com/SwiftDust/?tab=repositories">See some of my projects</a>
 </p>
 
 I'm part of [Hack Club](https://hackclub.com) where teens gather to code together. I really like open source.
