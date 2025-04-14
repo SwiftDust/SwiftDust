@@ -22,7 +22,7 @@ I also cook and ride my mountain bike occasionally.
 ### What I'm currently working on
 - StudyMate
 - Doing stuff in the Hack Club community
-- Building my own website (you can find it when it's done at m4rt.nl (will also have a portfolio with all of my finished projects)
+- Building my own website, you can find it when it's done at m4rt.nl (will also have a portfolio with all of my finished projects)
 - Learning new skills (like thinking more like a programmer, reading documentation, etc.) and languages sometimes
 
 <details>
