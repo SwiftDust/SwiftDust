@@ -6,14 +6,14 @@
   <a href="https://github.com/SwiftDust/?tab=repositories">See some of my projects</a>
 </p>
 
-My main focus right now is web development with frameworks like Svelte and React, design and building other (terminal) applications with TypeScript. In the past I've also built terminal applications with Rust and games. In the future I want to build more games and learn a more low-level programming language like C and other general computer science concepts.
+My main focus right now is web development with frameworks like Svelte and React, design and building (terminal) applications with TypeScript and Node.js/Bun. In the past I've also built terminal applications with Rust and games. In the future I want to build more games and learn a more low-level programming language like C and other general computer science concepts.
 
 I'm part of [Hack Club](https://hackclub.com) where teens gather to code together. I really like open source and occasionally contribute to it when I feel like it :)
 
 I also cook and ride my mountain bike occasionally.
 
 ### I'm proficient with the following skills and languages
-<a align="center">[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,github,powershell,bash,js,ts,py,html,css,svelte,tailwind,nodejs,bun,figma,vscode,neovim)](https://skillicons.dev)</a>
+<a align="center">[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,github,powershell,bash,js,ts,py,html,css,svelte,react,tailwind,nodejs,bun,figma,vscode,neovim)](https://skillicons.dev)</a>
 
 ### Check this out if you want a quick overview of what I'm doing!
 - [StudyMate](https://github.com/thatfrogdev/studymate): a pomodoro timer extension for your browser if you get distracted fast
@@ -38,7 +38,7 @@ I also cook and ride my mountain bike occasionally.
 
 [Why learning to code is hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
 
-<a href="http://www.github.com/SwiftDust"><img src="https://github-readme-stats.vercel.app/api?username=ThatFrogDev&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
+<a href="http://www.github.com/SwiftDust"><img src="https://github-readme-stats.vercel.app/api?username=SwiftDust&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
 
 <sub> 
 Known before as:
