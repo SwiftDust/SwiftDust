@@ -15,7 +15,7 @@ I also cook and ride my mountain bike occasionally.
 
 ### Check this out if you want a quick overview of what I'm doing!
 - [StudyMate](https://github.com/thatfrogdev/studymate): a pomodoro timer extension for your browser if you get distracted fast
-- [Drempal](https://github.com/thatfrogdev/drempal): a fun little game where you dodge the knives (prototyped in ~48 hours, don't expect too much)
+- [Drempal](https://swiftdust.itch.io/drempal): a fun little game where you dodge the knives (prototyped in ~48 hours, don't expect too much)
 - [Notabena (old)](https://github.com/The-Notabena-Organization/notabena-public-archive): I started this project as a terminal application for quick note-taking. Now someone else took over the idea to make it a great note-taking app (I'm not involved in this anymore)
   
 
