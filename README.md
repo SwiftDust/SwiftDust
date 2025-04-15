@@ -8,7 +8,7 @@
 
 My main focus right now is web development with frameworks like Svelte and React, design and building other (terminal) applications with TypeScript. In the past I've also built terminal applications with Rust and games. In the future I want to build more games and learn a more low-level programming language like C and other general computer science concepts.
 
-I'm part of [Hack Club](https://hackclub.com) where teens gather to code together. I really like open source.
+I'm part of [Hack Club](https://hackclub.com) where teens gather to code together. I really like open source and occasionally contribute to it when I feel like it :)
 
 I also cook and ride my mountain bike occasionally.
 
