@@ -38,7 +38,7 @@ I also cook and ride my mountain bike occasionally.
 
 [Why learning to code is hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
 
-<a href="http://www.github.com/SwiftDust"><img src="https://github-readme-stats.vercel.app/api?username=SwiftDust&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
+<a href="http://www.github.com/SwiftDust"><img src="https://github-readme-stats-cyyin.vercel.app/api?username=SwiftDust&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
 
 <sub> 
 Known before as:
