@@ -1,12 +1,12 @@
 <h3 align="center">👋 Hiya! I'm Mart, also known as SwiftDust</h3>
 <p align="center">
-  <a href="#">Website (coming soon!)</a> •
-  <a href="mailto:martzielman10@gmail.com">E-mail</a> •
+  <a href="https://m4rt.nl">Website (coming soon!)</a> •
+  <a href="mailto:me@m4rt.nl">me@m4rt.nl</a> •
   <a href="https://hackclub.com/slack">Hack Club: @mart (need to be <18 to join)</a> •
   <a href="https://github.com/SwiftDust/?tab=repositories">See some of my projects</a>
 </p>
 
-My main focus right now is web development with frameworks like Svelte and React, design and building (terminal) applications with TypeScript and Node.js/Bun. In the past I've also built terminal applications with Rust and games. In the future I want to build more games and learn a more low-level programming language like C and other general computer science concepts.
+My main focus right now is web development with frameworks like Svelte and React, design and building (terminal) applications with TypeScript and Node.js/Bun. I've also built terminal applications with Rust and games. In the future I want to build more games and learn a more low-level programming language like C and other general computer science concepts.
 
 I'm part of [Hack Club](https://hackclub.com) where teens gather to code together. I really like open source and occasionally contribute to it when I feel like it :)
 
@@ -16,13 +16,12 @@ I also cook and ride my mountain bike occasionally.
 <a align="center">[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,github,powershell,bash,js,ts,py,html,css,svelte,react,tailwind,nodejs,bun,figma,vscode,neovim)](https://skillicons.dev)</a>
 
 ### Check this out if you want a quick overview of what I'm doing!
-- [StudyMate](https://github.com/thatfrogdev/studymate): a pomodoro timer extension for your browser if you get distracted fast
-- [Drempal](https://swiftdust.itch.io/drempal): a fun little game where you dodge the knives (prototyped in ~48 hours, don't expect too much)
+- [StudyMate](https://github.com/thatfrogdev/studymate): a pomodoro timer extension for your browser if you get distracted fast (mvp, not really a main focus right now but it looks pretty cool!)
+- [Drempal](https://swiftdust.itch.io/drempal-2): A revamped version of the game Drempal I've worked on before for Game Off 2025
 - [Notabena (old)](https://github.com/The-Notabena-Organization/notabena-public-archive): I started this project as a terminal application for quick note-taking. Now someone else took over the idea to make it a great note-taking app (I'm not involved in this anymore)
   
 
 ### What I'm currently working on
-- StudyMate
 - Doing stuff in the Hack Club community
 - Building my own website, you can find it when it's done at m4rt.nl (will also have a portfolio with all of my finished projects)
 - Learning new skills (like thinking more like a programmer, reading documentation, etc.) and languages sometimes
