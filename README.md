@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hiya! I'm Mart, also known as SwiftDust</h3>
 <p align="center">
-  <a href="https://m4rt.nl">Website (coming soon!)</a> •
+  <a href="https://m4rt.nl">Website</a> •
   <a href="mailto:me@m4rt.nl">me@m4rt.nl</a> •
   <a href="https://hackclub.com/slack">Hack Club: @mart (need to be <18 to join)</a> •
   <a href="https://github.com/SwiftDust/?tab=repositories">See some of my projects</a>
