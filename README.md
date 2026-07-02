@@ -32,9 +32,3 @@ Here's a fun blog post!
 
 <a href="http://www.github.com/SwiftDust"><img src="https://github-readme-stats-cyyin.vercel.app/api?username=SwiftDust&show_icons=true&count_private=true&theme=radical" alt="My Github Stats" /></a>
 
-<sub> 
-Known before as:
-ThatFrogDev, ThatBoiDev, MartZielman 
-
-Readme from old username is kept. You can find it in my repositories if you wish.
-</sub>
