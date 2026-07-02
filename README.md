@@ -16,7 +16,7 @@ I also cook and ride my mountain bike occasionally.
 <a align="center">[![My Skills](https://skillicons.dev/icons?i=windows,linux,git,github,powershell,bash,js,ts,py,html,css,svelte,react,tailwind,nodejs,bun,figma,vscode,neovim)](https://skillicons.dev)</a>
 
 ### Some of my projects
-- [Transit Trauma](https://github.com/swiftdust/tranport-accuracy): A simple web app where you 
+- [Transit Trauma](https://github.com/swiftdust/transport-accuracy): A simple web app where you can see transit delays, based on GTFS realtime data
 - [Drempal](https://swiftdust.itch.io/drempal-2): Submission to Game Off 2025
 - [Personal website](https://m4rt.nl)
 - [Binary Adder PCB](https://github.com/swiftdust/binary-adder): One of my first PCBs. It's really simple but now I know that I like electrical engineering. I'll be doing some more advanced hardware projects soon.
