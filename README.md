@@ -23,7 +23,7 @@ I also cook and ride my mountain bike occasionally.
   
 
 ### What I'm currently working on
-- Organising events within the Hack Club community (like [this one](https://m4rt.nl/blog/how-i-organised-a-hackathon)). Currently working on something, too 👀
+- Organising events within the Hack Club community (like [this one](https://m4rt.nl/blog/how-i-organised-a-hackathon)). I've also organised an [ARG for 150 participants](https://github.com/The-Niming-De-Organization/site)
 - Learning hardware and low-level languages (I'm moving away from webdev a bit and getting into C and computer architecture!)
 - Qualifying for hackathons (currently [Beest](https://beest.hackclub.com))
 
