@@ -19,13 +19,13 @@ I also cook and ride my mountain bike occasionally.
 - [Transit Trauma](https://github.com/swiftdust/transport-accuracy): A simple web app where you can see transit delays, based on GTFS realtime data
 - [Drempal](https://swiftdust.itch.io/drempal-2): Submission to Game Off 2025
 - [Personal website](https://m4rt.nl)
-- [Binary Adder PCB](https://github.com/swiftdust/binary-adder): One of my first PCBs. It's really simple but now I know that I like electrical engineering. I'll be doing some more advanced hardware projects soon.
+- [Hackpad](https://github.com/swiftdust/hackpad): My first PCB project with a real use
   
 
 ### What I'm currently working on
 - Organising events within the Hack Club community (like [this one](https://m4rt.nl/blog/how-i-organised-a-hackathon)). I've also organised an [ARG for 150 participants](https://github.com/The-Niming-De-Organization/site)
 - Learning hardware and low-level languages (I'm moving away from webdev a bit and getting into C and computer architecture!)
-- Qualifying for hackathons (currently [Beest](https://beest.hackclub.com))
+- Qualifying for hackathons
 
 Here's a fun blog post!
 [Why learning to code is so damn hard](https://dev.to/theodinproject/why-learning-to-code-is-so-damn-hard-11nn)
