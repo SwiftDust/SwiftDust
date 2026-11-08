@@ -19,7 +19,7 @@ I also cook and ride my mountain bike occasionally.
 - [Transit Trauma](https://github.com/swiftdust/transport-accuracy): A simple web app where you can see transit delays, based on GTFS realtime data
 - [Drempal](https://swiftdust.itch.io/drempal-2): Submission to Game Off 2025
 - [Personal website](https://m4rt.nl)
-- [Hackpad](https://github.com/swiftdust/hackpad): My first PCB project with a real use
+- [Nyanpad](https://github.com/swiftdust/nyanpad): My first PCB project with a real use (it's a Nyan Cat macropad! I still have to assemble it, though) 
   
 
 ### What I'm currently working on
